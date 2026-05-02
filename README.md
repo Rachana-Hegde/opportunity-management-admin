@@ -186,6 +186,3 @@ This project demonstrates:
 
 **Rachana Hegde**
 🔗 GitHub: [https://github.com/Rachana-Hegde](https://github.com/Rachana-Hegde)
-
-
-Just tell 👍
